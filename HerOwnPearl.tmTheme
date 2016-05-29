@@ -7,28 +7,28 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>Created by Job Salinas, based on Cobalt, used Steven Universe&apos;s Pearl color palette.</string>
+	<string>Created by Job Salinas, based on Cobalt theme, used Steven Universe&apos;s Pearl color palette.</string>
 	<key>author</key>
 	<string>Efylan</string>
 	<key>name</key>
-	<string>Her Own Pearl</string>
+	<string>HerOwnPearl</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1D282B</string>
+				<string>#082D36</string>
 				<key>caret</key>
-				<string>#E9EBD5</string>
+				<string>#FFFFFF</string>
 				<key>foreground</key>
-				<string>#E9EBD5</string>
+				<string>#F9F5E1</string>
 				<key>invisibles</key>
 				<string>#FFFFFF26</string>
 				<key>lineHighlight</key>
 				<string>#00000059</string>
 				<key>selection</key>
-				<string>#177578</string>
+				<string>#B36539BF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -41,7 +41,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E7EBD5</string>
+				<string>#F9F5E1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -54,7 +54,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF7070</string>
+				<string>#EDFF94</string>
 			</dict>
 		</dict>
 		<dict>
@@ -67,7 +67,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FAB175</string>
+				<string>#67EACB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -80,7 +80,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6CE6A1</string>
+				<string>#F3946B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -93,7 +93,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6CE6A1</string>
+				<string>#FFB087</string>
 			</dict>
 		</dict>
 		<dict>
@@ -106,7 +106,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#EB939A</string>
+				<string>#BFD455</string>
 			</dict>
 		</dict>
 		<dict>
@@ -132,7 +132,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FAB175</string>
+				<string>#80FFBB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -145,7 +145,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F3F882</string>
+				<string>#CCCCCC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -158,7 +158,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#5CFFFF</string>
+				<string>#EB939A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -169,7 +169,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FAF5CD</string>
+				<string>#FFE6C3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -193,11 +193,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#062E40</string>
+				<string>#223545</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E9EBD5</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -234,7 +234,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#80FF82</string>
+				<string>#F3F882</string>
 			</dict>
 		</dict>
 		<dict>
@@ -245,7 +245,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#80FFC2</string>
+				<string>#BFD455</string>
 			</dict>
 		</dict>
 		<dict>
@@ -256,7 +256,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F5CECE</string>
+				<string>#F3F882</string>
 			</dict>
 		</dict>
 		<dict>
@@ -269,7 +269,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FAB175</string>
+				<string>#6CE6A1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -337,7 +337,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#80FFC2</string>
+				<string>#9EFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -348,7 +348,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9EFF80</string>
+				<string>#9EFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -359,7 +359,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FAB175</string>
+				<string>#F3946B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -370,7 +370,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6CE6A1</string>
+				<string>#80FFBB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -381,7 +381,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#80FCFF</string>
+				<string>#80FFBB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -392,7 +392,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EB939A</string>
+				<string>#EDFF94</string>
 			</dict>
 		</dict>
 		<dict>
@@ -403,7 +403,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF7070</string>
+				<string>#FFB087</string>
 			</dict>
 		</dict>
 		<dict>
@@ -414,7 +414,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFF7B</string>
+				<string>#EDFF94</string>
 			</dict>
 		</dict>
 		<dict>
@@ -425,7 +425,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#80FCFF</string>
+				<string>#EB939A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -554,6 +554,39 @@
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#C8E4FD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Gutter Mark</string>
+			<key>scope</key>
+			<string>sublimelinter.gutter-mark</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Error</string>
+			<key>scope</key>
+			<string>sublimelinter.mark.error</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D02000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Warning</string>
+			<key>scope</key>
+			<string>sublimelinter.mark.warning</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DDB700</string>
 			</dict>
 		</dict>
 	</array>
