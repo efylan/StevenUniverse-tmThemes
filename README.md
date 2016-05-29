@@ -32,6 +32,6 @@ Clone this repo on that folder.
 
 And go to Sublime Text's menu option Preferences, Settings - User, and add:
 
-	"color_scheme": "home/youruser/HerOwnPearl.tmTheme"
+	"color_scheme": "home/youruser/colorschemes/HerOwnPearl.tmTheme"
 
 You could also install package control and colorsublime and just cram the .tmTheme files in its theme directory.
