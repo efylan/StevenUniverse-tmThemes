@@ -12,6 +12,11 @@ Theme designed after Pearl's color palettes (old, new and space suit).
 
 Theme designed after Peridot's color palettes, with a hint of jasper.
 
+### Made of Love
+![Screenshot](http://i.imgur.com/b4cSFqv.png)
+
+Theme designed after Garnet's normal and cotton candy forms, also a bit of Ruby and Sapphire. (Needs some enhancements probably? Maybe it's better off as a light theme?)
+
 ### Rose's Room
 ![Screenshot](http://i.imgur.com/3oLhZKX.png)
 
